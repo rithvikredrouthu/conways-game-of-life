@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1><code>Conway's Game of Life</code></h1>
+  <h1><code>conways-game-of-life</code></h1>
 
   <strong>An implementation of Conway's Game of Life in Rust and WebAssembly - built using <a href="https://github.com/rustwasm/wasm-pack">wasm-pack</a>.</strong>
 
