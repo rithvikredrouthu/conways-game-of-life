@@ -9,5 +9,5 @@ extern "C" {
 
 #[wasm_bindgen]
 pub fn greet() {
-    alert("Hello, conways-game-of-life!");
+    alert("Hello, wasm-game-of-life!");
 }
